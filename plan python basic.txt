@@ -1,0 +1,34 @@
+1) Kirisiw, print
+2) Print(arifmetikaliq ameller) 
+3) O'zgeriwshiler
+4) Input, esaplar islew, ERROR
+5) List (append, insert, del, remove, pop)
+6) List (sort, reverse, range, len, min, max, sum)
+7) For cikl
+8) If, Else
+9) Elif, or, and
+10) List, For esaplar islew
+11) If, else saplar islew
+12) Dictionary (print, qosiw, ozgertiw, udalit etiw)
+13) Dictoinary (get, items() )
+14) While cikl
+15) Funkciya
+16) Funkciya2 (args, kwargs, sandi tap oyini)
+17) Moduller, Lambda funkciya
+18) OOP 
+19.A) Class(nasil ham polimorfizm)
+19.B) Class (inkapsulyaciya ham klassqa tiyisli qasiyetler)
+20) Dunder metodlar
+21) Fayllar mn islew (GITHUB)
+22) Json fayllar (try, except)
+23) Standart bibliotekalar
+24) Sirtqi biblotekalar
+25) Maglumatlar bazasi SQL
+26) Tkinter (button, label, pack() )
+27) Button( place(), grid() )
+28) Messagebox, OOP
+29) Povtor
+30) Kalkulyator
+31) Translate
+32) Telegram bot
+33) Telegram bot 2
